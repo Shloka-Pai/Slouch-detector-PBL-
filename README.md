@@ -1,0 +1,1 @@
+The Slouch Detector is a posture monitoring system that uses OpenCV and Python to detect and alert users when they are slouching. It captures real-time video through a webcam and analyzes the user’s body alignment using techniques such as pose estimation or shoulder–neck angle detection.
